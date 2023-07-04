@@ -41,6 +41,8 @@ body {
   background: var(--bg-color);
 }
 
+
+
 header .navbar {
   position: fixed;
   top: 0;
